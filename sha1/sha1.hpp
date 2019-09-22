@@ -154,7 +154,7 @@ private:
     std::copy(msg.cbegin(), msg.cend(), padded_msg.begin());
 
     // 0b10000000を付加
-    padded_msg[msglen] = 0x80;
+    padded_msg[msglen] = 0b10000000;
 
     // メッセージ長を付加
     padded_msg[padded_len - 4] = static_cast<std::uint8_t>((msglen * 8) >> 24);
