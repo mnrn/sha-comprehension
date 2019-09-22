@@ -9,5 +9,5 @@ Secure Hash Algorithms implementation with C++17~
 - [fmt](https://github.com/fmtlib/fmt)
 - [Catch2](https://github.com/catchorg/Catch2)
 
-However, these libraries(frameworks) does not exist in this repository.
+However, these libraries(frameworks) does not exist in this repository.  
 These are supposed be placed in the root directory of this repository.
