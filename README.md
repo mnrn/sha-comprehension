@@ -1,7 +1,7 @@
 # SHA comprehension
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-orange.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-![Launguage-C++](https://img.shields.io/badge/Language-C%2B%2B-yellowgreen)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgray.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+![Launguage-C++](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
 Secure Hash Algorithms implementation with C++17~
 
